@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Leaflet/static/css/main.fbe0ed4c.css",
+    "main.js": "/React-Leaflet/static/js/main.18656ff3.js",
+    "static/js/787.6d185335.chunk.js": "/React-Leaflet/static/js/787.6d185335.chunk.js",
+    "index.html": "/React-Leaflet/index.html",
+    "main.fbe0ed4c.css.map": "/React-Leaflet/static/css/main.fbe0ed4c.css.map",
+    "main.18656ff3.js.map": "/React-Leaflet/static/js/main.18656ff3.js.map",
+    "787.6d185335.chunk.js.map": "/React-Leaflet/static/js/787.6d185335.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe0ed4c.css",
+    "static/js/main.18656ff3.js"
+  ]
+}
